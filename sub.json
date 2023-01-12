@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "LOVESCREAM",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/068/568/509/68568509_1331532769184_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2008
+    },
+    {
+        "id": 2,
+        "title": "Map The Soul",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/076/313/586/76313586_1404899344125_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2009
+    },
+    {
+        "id": 3,
+        "title": "Remixing the Human Soul",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/079/935/998/79935998_1390902553056_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2009
+    },
+    {
+        "id": 4,
+        "title": "Epilogue",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/089/513/80089513_1404899271718_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2010
+    },
+    {
+        "id": 5,
+        "title": "sleepless in __________",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/170/735/81170735_1552289235355_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2019
+    },
+    {
+        "id": 6,
+        "title": "열꽃 Part.1",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/270/837/80270837_1319157810286_1_600x600.JPG/dims/resize/Q_80,0",
+        "year": 2011
+    },
+    {
+        "id": 7,
+        "title": "열꽃 Part.2",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/272/418/80272418_1320052464231_1_600x600.JPG/dims/resize/Q_80,0",
+        "year": 2011
+    }
+]

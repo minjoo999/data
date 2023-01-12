@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Map of the Human Soul",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/015/027/746/15027746_1305854109932_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2003
+    },
+    {
+        "id": 2,
+        "title": "High Society",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/015/028/722/15028722_1305854179424_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2004
+    },
+    {
+        "id": 3,
+        "title": "Swan Songs",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/020/636/053/20636053_1305854340293_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2005
+    },
+    {
+        "id": 4,
+        "title": "Remapping the Human Soul",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/045/790/117/45790117_1331532381512_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2007
+    },
+    {
+        "id": 5,
+        "title": "Pieces, Part One",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/058/573/421/58573421_1331532649154_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2008
+    },
+    {
+        "id": 6,
+        "title": "[e]",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/079/963/513/79963513_1331533217401_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2009
+    },
+    {
+        "id": 7,
+        "title": "99",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/317/777/80317777_1350640214146_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2012
+    },
+    {
+        "id": 8,
+        "title": "신발장",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/470/589/80470589_1413814269535_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2014
+    },
+    {
+        "id": 9,
+        "title": "We've Done Something Wonderful",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/991/334/80991334_1508741715086_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2017
+    },
+    {
+        "id": 10,
+        "title": "Epik High is Here, Pt.1",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/846/681/81846681_1610952766787_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2021
+    },
+    {
+        "id": 11,
+        "title": "Epik High is Here, Pt.2",
+        "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/487/832/82487832_1644806991126_1_140x140.JPG/dims/resize/Q_80,0",
+        "year": 2022
+    }
+]
